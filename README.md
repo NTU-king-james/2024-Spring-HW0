@@ -3,13 +3,13 @@
 All the detailed specified in Homework 0 documentation.
 
 ## Wallet Address
-Please provide your MetaMask wallet address:
+0x7C75fd363Fd9733CB0bce795421FB8B803Ad63F2
 
 ## Local Testing
-Please provide a screenshot of the `forge test -vvv` command running in your local environment.
+![Local Testing](./pic/log1.png)
 
 ## Contract Address
-Please provide the contract address that you deployed on the Sepolia network.
+![Local Testing](./pic/log2.png)
 
 ## Sepolia Etherscan
-Paste the contract address into the Sepolia Etherscan and share the screenshot.
+![Local Testing](./pic/log3.png)
